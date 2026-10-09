@@ -1,3 +1,5 @@
+# Greets people who open an issue.
+# Maintained by the docs team.
 name: greet
 
 on:
